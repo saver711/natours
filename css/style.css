@@ -1396,3 +1396,9 @@ body {
   @media only screen and (max-width: 56.25em) {
     .booking {
       padding: 10rem 0; } }
+@media only screen and (max-width: 900px){
+.form__radio-group{
+  width:100%;
+  }
+}
+
